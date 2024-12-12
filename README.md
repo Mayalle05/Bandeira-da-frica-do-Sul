@@ -1,5 +1,10 @@
 # Bandeira-da-frica-do-Sul
-Utilização da biblioteca Turtle para o desenho da bandeira da África do Sul
 
-# Simulação
+
+## Simulação:
 ![Bandeira da África do Sul](africa-do-sul.gif)
+
+## Descrição:
+  Bandeira da África do Sul feito utilizando a biblioteca Turtle do Python.
+
+*Projeto by Mayalle - INFO1M*
