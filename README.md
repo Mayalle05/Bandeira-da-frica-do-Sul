@@ -1,4 +1,4 @@
-# Bandeira-da-frica-do-Sul
+# Bandeira-da-África-do-Sul
 
 
 ## Simulação:
